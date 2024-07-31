@@ -1,0 +1,9 @@
+name: YT link plugin
+main: YT link plugin\main
+author: NotLazerPvPz
+api: 2.0.0
+version: 1.0
+
+commands:
+ yt:
+  descprition: "youtube channel link"
